@@ -1,9 +1,9 @@
 {
-    "name": "Simeon Petrovic",
-    "headerTaglineOne": "Hello Clients",
-    "headerTaglineTwo": "This is Simeon Petrovic ",
-    "headerTaglineThree": "Generative AI, Gis, Backend Engineer",
-    "headerTaglineFour": " from USA.",
+    "name": "Patrick Ruiz",
+    "headerTaglineOne": "Senior AI + iOS Developer",
+    "headerTaglineTwo": "",
+    "headerTaglineThree": "+ (Flutter & React Native)",
+    "headerTaglineFour": "Based in USA.",
     "showCursor": true,
     "showBlog": false,
     "darkMode": true,
@@ -14,24 +14,20 @@
             "title": "Github",
             "link": "https://github.com/newangry"
         },
-        {
-            "id": "2",
-            "title": "LinkedIn",
-            "link": ""
-        },
+   
         {
             "id": "5",
             "title": "Email",
-            "link": "mailto:posture0609@gmail.com"
+            "link": "mailto:patrickcruiz99@gmail.com"
         }
     ],
     "projects": [
         {
             "id": "1",
-            "title": "markprompt",
-            "description": "This project is to generate chatbots that can answer based on trained data(uploaded data on platfrom) such pdf, doc, txt and websites content. The generated chatbots on platform is integrated with various platform using frameworks such as React, Vanila, Angular and PHP frameworks. If I can talk about role of this project, As I'm an Ai deveoper, I managed Vector DB, LLM, NLP and System Prompt. I used the supabase for semantic search and storing Vector db.",
+            "title": "FoundProtect",
+            "description": " iOS mobile application for register your all valuables to our Database and helps you find it once you lost it. ",
             "imageSrc": "/markprompt.png",
-            "url": "http://markprompt.com/"
+            "url": "http://foundprotect.com/"
         },
         {
             "id": "2",
@@ -87,14 +83,14 @@
     "aboutpara": "With over 7 years of experience as a senior software engineer, I have successfully developed and delivered a wide range of projects across various industries. My expertise encompasses frontend development with React.js, backend development with Node.js, Typescript, and backend scripting with Python and Java. I possess a strong understanding of modern development practices, including REST APIs, microservices, Machine Learning and cloud technologies. Throughout my career, I have demonstrated exceptional leadership skills and the ability to collaborate effectively with teams. I am also adept at adapting to different roles and consistently delivering high-quality solutions. As a proactive and results-oriented professional, I thrive in challenging and dynamic environments. My passion for continuous learning and staying up-to-date with the latest technologies enables me to constantly enhance and deliver innovative solutions",
     "resume": {
         "tagline": "👋  I'm a full-stack developer.",
-        "description": "I have delivered world-class user experiences to millions of people. Well-versed with Python, Django React, Javascript, and most of the Web frameworks.",
+        "description": "Bringing over 12 years of experience in crafting high-performance, and user centric mobile applications, I specialize in both native iOS and cross-platfrom development using Flutter and React Native",
         "experiences": [
             {
                 "id": "1",
-                "dates": "DEC 2020 - Feb  2024",
+                "dates": "January 2020 - October  2024",
                 "type": "Full Time",
-                "position": "Backend Developer (Contractor) - Python & AI/ML | Mixbook",
-                "bullets": "During my time at Mixbook, I Designed and implemented robust Python APIs for photo book customization and ordering processes. Utilized machine learning algorithms to personalize user experiences and automate photo selection. Developed AI-driven features for image enhancement and layout generation. Collaborated with data scientists to refine ML models based on user interaction data."
+                "position": "Native iOS developer | Fueled",
+                "bullets": "During my time at Fueled, I Developed and launched high-performance iOS applications using Swift and Objective-C, delivering seamless user experience and achieving 4.8+ average rating on the App Store for multiple projects. Collaborated with corss-functional teams to integrate Restful APIs, implement advanced features like push notifications and in-app purchases, and ensure timely project delivery for clients such as Amazon."
             },
             {
                 "id": "2",
